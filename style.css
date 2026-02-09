@@ -1,5 +1,5 @@
 body{
-background:cyan;
+background:#f3f3f3;
 color:black;
 width:100%;
 font-family:Times-New-Roman;
@@ -11,9 +11,10 @@ width:90%;
 margin:auto;
 height:120px;
 line-height:120px;
-backgorund:white;
-color:red;
+backgorund:cyan;
+color:#fff;
 }
+
 
 
 
