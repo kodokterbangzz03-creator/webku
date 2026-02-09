@@ -1,6 +1,6 @@
 body{
-background:cyan;
-color:black;
+background:#f3f3f3;
+color:#333;
 width:100%;
 font-family:Times-New-Roman;
 margin:0 auto;
@@ -11,9 +11,10 @@ width:90%;
 margin:auto;
 height:120px;
 line-height:120px;
-backgorund:white;
-color:red
+backgorund:#417aa8;
+color:#fff
 }
+
 
 
 
