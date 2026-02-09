@@ -2,15 +2,21 @@ body
 {
 background:cyan;
 color:black;
+width:100%;
 font-family:Times New Roman;
+margin:0 auto;
 }
 
-header
+.header
 {
-bakcground: white;
+width:90%;
+margin:auto;
+height:120px;
+line-height:120px;
+backgorund:white;
 color:red
-  
 }
+
 
 
 
