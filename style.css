@@ -1,37 +1,16 @@
 body{
-    background:#f3f3f3;
-    color:#333;
-    width:100%;
-    font-family:Times-New-Roman;
-    margin:0 auto;
+  background:#f3f3f3;
+  color:#333;
+  width:100%;
+  font-family:comic-sans;
+  margin:0 auto;
 }
 
 .header{
-    width:90%;
-    margin:auto;
-    height:120px;
-    line-height:120px;
-    backgorund:#417aa8;
-    color:#fff;
+  width:90%;
+  margin:auto;
+  height:120px;
+  line-height:120px;
+  background:#417aa8;
+  color:#fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
